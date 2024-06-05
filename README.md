@@ -1,7 +1,7 @@
 # Implementasi Interpolasi
-## Zeka Emo
-## 21120122130075
-## Metode Numerik Kelas C
+### Zeka Emo
+### 21120122130075
+### Metode Numerik Kelas C
 
 ## Tugas Metode Numerik
 ### Implementasi Interpolasi menggunakan dua metode:
